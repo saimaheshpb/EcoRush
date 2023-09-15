@@ -1,0 +1,71 @@
+/* Admin.css */
+
+.admin-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .admin-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .admin-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  .admin-card {
+    background-color: #ffffff;
+    border: 1px solid #e2e2e2;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: left;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .activity-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .activity-details {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .activity-details li {
+    margin-bottom: 5px;
+  }
+  
+  .activity-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .activity-button {
+    padding: 5px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease;
+  }
+  
+  .activity-button.approve {
+    background-color: #4caf50;
+  }
+  
+  .activity-button.deny {
+    background-color: #f44336;
+  }
+  
+  .activity-button:hover {
+    background-color: #333;
+  }
+  
