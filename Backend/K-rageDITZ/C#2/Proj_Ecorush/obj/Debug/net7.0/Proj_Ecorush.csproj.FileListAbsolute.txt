@@ -1,0 +1,229 @@
+<<<<<<< HEAD
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/appsettings.Development.json
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/appsettings.json
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.exe
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.deps.json
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.runtimeconfig.json
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.pdb
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Humanizer.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.OpenApi.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Mono.TextTemplating.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/bin/Debug/net7.0/System.CodeDom.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.AssemblyReference.cache
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.GeneratedMSBuildEditorConfig.editorconfig
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.AssemblyInfoInputs.cache
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.AssemblyInfo.cs
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.CoreCompileInputs.cache
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.MvcApplicationPartsAssemblyInfo.cs
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.MvcApplicationPartsAssemblyInfo.cache
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.Proj_Ecorush.Microsoft.AspNetCore.StaticWebAssets.props
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.build.Proj_Ecorush.props
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Proj_Ecorush.props
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Proj_Ecorush.props
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.pack.json
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.build.json
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.development.json
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/scopedcss/bundle/Proj_Ecorush.styles.css
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.CopyComplete
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/refint/Proj_Ecorush.dll
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.pdb
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.genruntimeconfig.cache
+D:/My Stuff/Shell/Proj_EcoRush/C#2/Proj_Ecorush/obj/Debug/net7.0/ref/Proj_Ecorush.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/appsettings.json
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.exe
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.deps.json
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.runtimeconfig.json
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.pdb
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Humanizer.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.AssemblyReference.cache
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.AssemblyInfoInputs.cache
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.AssemblyInfo.cs
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.CoreCompileInputs.cache
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.Proj_Ecorush.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.build.Proj_Ecorush.props
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Proj_Ecorush.props
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Proj_Ecorush.props
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/scopedcss/bundle/Proj_Ecorush.styles.css
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.CopyComplete
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/refint/Proj_Ecorush.dll
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.pdb
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.genruntimeconfig.cache
+C:/Users/vmuser/Desktop/SE Shell/EcoRush/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/ref/Proj_Ecorush.dll
+=======
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/appsettings.Development.json
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/appsettings.json
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.deps.json
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.runtimeconfig.json
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.pdb
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Humanizer.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/System.CodeDom.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.AssemblyReference.cache
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.AssemblyInfoInputs.cache
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.AssemblyInfo.cs
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.CoreCompileInputs.cache
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.MvcApplicationPartsAssemblyInfo.cs
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.MvcApplicationPartsAssemblyInfo.cache
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.Proj_Ecorush.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.build.Proj_Ecorush.props
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Proj_Ecorush.props
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Proj_Ecorush.props
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.build.json
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.development.json
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/scopedcss/bundle/Proj_Ecorush.styles.css
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.CopyComplete
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/refint/Proj_Ecorush.dll
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.pdb
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.genruntimeconfig.cache
+/Users/saimahesh/RiderProjects/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/ref/Proj_Ecorush.dll
+>>>>>>> de7f96d34db6e186209990736cfd2e2f8ac08362
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/appsettings.Development.json
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/appsettings.json
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.deps.json
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.runtimeconfig.json
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.pdb
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Humanizer.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/System.CodeDom.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.AssemblyReference.cache
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.AssemblyInfoInputs.cache
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.AssemblyInfo.cs
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.CoreCompileInputs.cache
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.MvcApplicationPartsAssemblyInfo.cs
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.MvcApplicationPartsAssemblyInfo.cache
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.Proj_Ecorush.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.build.Proj_Ecorush.props
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Proj_Ecorush.props
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Proj_Ecorush.props
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.build.json
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.development.json
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/scopedcss/bundle/Proj_Ecorush.styles.css
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.CopyComplete
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/refint/Proj_Ecorush.dll
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.pdb
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.genruntimeconfig.cache
+/Users/saimahesh/Downloads/EcoTest/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/ref/Proj_Ecorush.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/appsettings.Development.json
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/appsettings.json
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.deps.json
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.runtimeconfig.json
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Proj_Ecorush.pdb
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Humanizer.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/System.CodeDom.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.AssemblyReference.cache
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.AssemblyInfoInputs.cache
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.AssemblyInfo.cs
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.CoreCompileInputs.cache
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.MvcApplicationPartsAssemblyInfo.cs
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.MvcApplicationPartsAssemblyInfo.cache
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.Proj_Ecorush.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.build.Proj_Ecorush.props
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Proj_Ecorush.props
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Proj_Ecorush.props
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.build.json
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/staticwebassets.development.json
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/scopedcss/bundle/Proj_Ecorush.styles.css
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.csproj.CopyComplete
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/refint/Proj_Ecorush.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.pdb
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/Proj_Ecorush.genruntimeconfig.cache
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/obj/Debug/net7.0/ref/Proj_Ecorush.dll
+/Users/saimahesh/Desktop/EcoRush/K-rageDITZ/C#2/Proj_Ecorush/bin/Debug/net7.0/BCrypt.Net-Next.dll
